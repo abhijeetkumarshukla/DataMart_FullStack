@@ -14,7 +14,6 @@ export const fetchProductById = async (id) => {
   return res.data;
 };
 
-
 // Why this is good:
 
 // Centralized API
