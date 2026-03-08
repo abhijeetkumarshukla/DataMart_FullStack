@@ -14,7 +14,6 @@ The project focuses on **clean architecture, performance optimization, and a mod
 * Search Products
 * Pagination
 * Statistics Cards
-* Dark / Light Mode
 * Responsive Layout
 * Lazy Loading (Performance Optimization)
 * Modern UI with Tailwind CSS
