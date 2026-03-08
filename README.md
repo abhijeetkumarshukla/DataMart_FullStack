@@ -210,15 +210,7 @@ Features include:
 * Modern dashboard layout
 
 ---
-
-# 🌙 Dark Mode
-
-Dark mode is implemented using Tailwind's `dark` class.
-
-The theme is toggled dynamically and saved in `localStorage`.
-
----
-
+ 
 # 🔄 Data Fetching
 
 Data is fetched using **Axios**.
